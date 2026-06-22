@@ -32,7 +32,7 @@ module tb ();
 `endif
 
     // Instantiate the DUT
-    tt_um_jalper_mips tt_um_jalper_mips (
+    tt_um_wokwi_465731481873367041 tt_um_wokwi_465731481873367041 (
 `ifdef GL_TEST
         .VPWR(VPWR),
         .VGND(VGND),
